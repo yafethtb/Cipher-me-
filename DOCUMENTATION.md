@@ -1,12 +1,5 @@
-================
 PROGRAM DOCUMENTATION
-================
 
-PROGRAM'S NAME: CIPHER ME
-LANGUAGE      : PYTHON 3x
-DEVELOPER     : YAFETH TANDI BENDON
-
-================
 
 A. What is this?
 ----------------
@@ -44,5 +37,3 @@ D. Input/Output
 ----------------
 This program ONLY accept text file in .txt extension. 
 This program will ONLY save the result in .txt extension too.
-
-================
